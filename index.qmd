@@ -14,7 +14,7 @@ format:
 ::: {.card}
 <h1 id="title">Hello, World！</h1>
 <button onclick="clickChange()">Click!</button>
-<h2 id="content">WEbAPIを取得する前</h2>
+<h2 id="content"></h2>
 
 <script>
 myURL = "https://pokemon-ga-api.yukiosada.work/latest?higher=1&lower=1";
